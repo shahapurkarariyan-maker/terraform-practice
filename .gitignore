@@ -1,0 +1,6 @@
+# Ignore Terraform local files and large binaries
+**/.terraform/
+*.tfstate
+*.tfstate.*
+*.zip
+*.exe
